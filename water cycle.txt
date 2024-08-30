@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group 2 Grade 8-Ecclesiastes - Water Cycle</title>
+    <link rel="stylesheet" href="Water Cycle.css">
+</head>
+<body>
+    <header>
+        <nav align="center">
+            <b>
+                <font face="Sans-Serif" size="3">
+                    <a href="Homepage.html" style="text-decoration:none;">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="Essential.html" style="text-decoration:none;">ESSENTIAL ELEMENTS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="Watercycle.html" style="text-decoration:none;">WATER CYCLE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="Interactive.html" style="text-decoration:none;">INTERACTIVE ELEMENTS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="Reference.html" style="text-decoration:none;">REFERENCE PAGE</a>
+                </font>
+            </b>
+        </nav>
+    </header>
+    <hr>
+    
+    <!-- Water Cycle Section -->
+    <section class="container">
+        <div class="text-section">
+            <h1>WATER CYCLE</h1>
+        </div>
+        <div class="image-section">
+            <img src="watercycle_photo.jpg" alt="Water Cycle" style="max-width:100%; height:auto;">
+        </div>
+    </section>
+    
+    <!-- Water Cycle Stages Section -->
+    <section class="stages">
+        <div class="stage">
+            <h2>What is the Water Cycle?</h2>
+            <p>The water cycle is a continuous process where water moves all around the Earth. It has no beginning or end, making it a continuous cycle. There are four main stages in the water cycle: Evaporation, Condensation, Precipitation, and Collection.</p>
+        </div>
+        <div class="stage">
+            <h2>Evaporation</h2>
+            <p>Evaporation happens when the sun heats up water in rivers, lakes, or the ocean, turning it into vapor or steam. This water vapor rises into the atmosphere.</p>
+            <p>About 90% of the moisture in our atmosphere comes from evaporation from oceans, seas, and other bodies of water, while the remaining 10% comes from plant transpiration.</p>
+        </div>
+        <div class="stage">
+            <h2>Condensation</h2>
+            <p>As water vapor rises, it cools down due to the lower temperatures at higher altitudes, forming tiny droplets of water or ice. These droplets come together to form clouds.</p>
+            <p>Condensation helps regulate temperatures across the Earth, preventing extreme temperature fluctuations between day and night.</p>
+        </div>
+        <div class="stage">
+            <h2>Precipitation</h2>
+            <p>When these droplets in clouds become too heavy, they fall back to Earth as precipitation in the form of rain, hail, sleet, or snow.</p>
+            <p>The type of precipitation depends on the temperature of the air. Warmer air typically results in rain, while colder air can produce snow, sleet, or hail.</p>
+        </div>
+        <div class="stage">
+            <h2>Collection</h2>
+            <p>After precipitation, water collects in various bodies such as rivers, lakes, and oceans. Some water is also stored underground as groundwater. The ocean holds about 96% of Earth’s water, but freshwater is stored in lakes, glaciers, snowcaps, rivers, and underground.</p>
+            <p>Groundwater is crucial for sustaining life, providing drinking water for a large portion of the global population and supporting agriculture.</p>
+        </div>
+        <div class="stage">
+            <h2>The Importance of the Water Cycle</h2>
+            <p>The water cycle is vital for maintaining life on Earth. It ensures a continuous supply of fresh water, essential for drinking, agriculture, and industry. It also helps regulate climate by distributing heat across the globe.</p>
+            <p>The water cycle plays a key role in shaping our environment. For example, rivers formed by precipitation can carve valleys and create fertile plains ideal for farming.</p>
+        </div>
+        <div class="stage">
+            <h2>Did You Know?</h2>
+            <ul>
+                <li>The water cycle is also known as the “hydrologic cycle”.</li>
+                <li>Earth has been recycling water for over 4 billion years!</li>
+                <li>Plants transpire, similar to how humans perspire. Transpiration is the process by which plants lose water through their leaves.</li>
+                <li>Every drop of water you drink has likely been around since the time of the dinosaurs, having been cycled through the Earth countless times.</li>
+                <li>The water cycle helps purify water naturally, filtering it through soil and sand during the collection phase, removing impurities.</li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>

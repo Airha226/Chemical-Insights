@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The 8 Stages of the Water Cycle</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #e0f7fa;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #0288d1;
+            color: white;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0277bd;
+            margin-top: 30px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #0288d1;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>The 8 Stages of the Water Cycle</h1>
+        <p>Understanding the continuous movement of water on, above, and below the surface of the Earth.</p>
+    </header>
+
+    <div class="container">
+        <h2>1. Evaporation</h2>
+        <p>Evaporation is the process where water changes from a liquid to a gas or vapor. This is the primary pathway that water moves from the liquid state back into the water cycle as atmospheric water vapor.</p>
+
+        <h2>2. Transpiration</h2>
+        <p>Transpiration is the process by which moisture is carried through plants from roots to small pores on the underside of leaves, where it changes to vapor and is released to the atmosphere.</p>
+
+        <h2>3. Sublimation</h2>
+        <p>Sublimation is the process by which solid water, such as ice or snow, changes directly into water vapor without first becoming liquid.</p>
+
+        <h2>4. Condensation</h2>
+        <p>Condensation is the process where water vapor in the air is changed into liquid water. Condensation is crucial to the water cycle because it is responsible for the formation of clouds.</p>
+
+        <h2>5. Precipitation</h2>
+        <p>Precipitation is the process where water falls from clouds in the sky as rain, snow, sleet, or hail. It is the primary way that water in the atmosphere is delivered to Earth.</p>
+
+        <h2>6. Infiltration</h2>
+        <p>Infiltration is the process by which water on the ground surface enters the soil. It is a crucial part of the water cycle as it contributes to the replenishment of groundwater.</p>
+
+        <h2>7. Runoff</h2>
+        <p>Runoff occurs when there is excessive rainfall or other precipitation, causing water to flow over the land surface towards rivers, lakes, or oceans.</p>
+
+        <h2>8. Collection</h2>
+        <p>Collection refers to the process by which precipitation and runoff gather in large bodies of water like rivers, lakes, and oceans. This collected water will eventually evaporate again, continuing the water cycle.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Water Cycle Education. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
